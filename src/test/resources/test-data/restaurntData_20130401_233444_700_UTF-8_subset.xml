@@ -1,0 +1,1355 @@
+<DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DEPARTMENT>Food and Environmental Hygiene Department</DEPARTMENT>
+  <GENERATION_DATE>2013-04-01</GENERATION_DATE>
+  <LINK>http://www.fehd.gov.hk</LINK>
+  <TYPE_CODE>
+    <CODE ID="RL">General Restaurant Licence</CODE>
+    <CODE ID="RR">Light Refreshment Restaurant Licence</CODE>
+    <CODE ID="MR">Marine Restaurant Licence</CODE>
+  </TYPE_CODE>
+  <DIST_CODE>
+    <CODE ID="11">Eastern</CODE>
+    <CODE ID="12">Wan Chai</CODE>
+    <CODE ID="15">Southern</CODE>
+    <CODE ID="17">Islands</CODE>
+    <CODE ID="18">Central/Western</CODE>
+    <CODE ID="51">Kwun Tong</CODE>
+    <CODE ID="52">Kowloon City</CODE>
+    <CODE ID="53">Wong Tai Sin</CODE>
+    <CODE ID="61">Yau Tsim</CODE>
+    <CODE ID="62">Mong Kok</CODE>
+    <CODE ID="63">Sham Shui Po</CODE>
+    <CODE ID="91">Kwai Tsing</CODE>
+    <CODE ID="92">Tsuen Wan</CODE>
+    <CODE ID="93">Tuen Mun</CODE>
+    <CODE ID="94">Yuen Long</CODE>
+    <CODE ID="95">Tai Po</CODE>
+    <CODE ID="96">North</CODE>
+    <CODE ID="97">Sha Tin</CODE>
+    <CODE ID="98">Sai Kung</CODE>
+  </DIST_CODE>
+  <INFO_CODE>
+    <CODE ID="#A">Licensed restaurant with outside seating accommodation</CODE>
+    <CODE ID="#B">Licensed restaurant issued with karaoke establishment permit</CODE>
+    <CODE ID="#C">Licensed restaurant issued with karaoke establishment exemption order</CODE>
+    <CODE ID="#D">Licensed food premises that are recognized by FEHD for the revised inspection regime after fully implemented the food safety system under ISO 22000 and obtained the ISO 22000 Certification</CODE>
+    <CODE ID="#E">Licensed restaurant approved to sell meat to be eaten in raw state for consumption on the premises</CODE>
+    <CODE ID="#F">Licensed restaurant approved to sell oyster to be eaten in raw state for consumption on the premises</CODE>
+    <CODE ID="#G">Licensed restaurant approved to sell sashimi for consumption on the premises</CODE>
+    <CODE ID="#H">Licensed restaurant approved to sell sushi for consumption on the premises</CODE>
+  </INFO_CODE>
+  <LPS>
+    <LP>
+      <TYPE>MR</TYPE>
+      <DIST>15</DIST>
+      <LICNO>3715038319</LICNO>
+      <SS>Jumbo</SS>
+      <ADR>JUMBO FLOATING RESTAURANT, ABERDEEN TYPHOON SHELTER, SHUM WAN, WONG CHUK HANG, SOUTHERN, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>MR</TYPE>
+      <DIST>15</DIST>
+      <LICNO>3715038328</LICNO>
+      <SS>Tai Pak Floating Restaurant</SS>
+      <ADR>TAI PAK FLOATING RESTAURANT, SHUM WAN, WONG CHUK HANG, ABERDEEN, SOUTHERN, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>MR</TYPE>
+      <DIST>11</DIST>
+      <LICNO>3711800024</LICNO>
+      <SS>Man Lok</SS>
+      <ADR>MAN LOK (VESSEL NO. A5583) (PORTION OF UPPER DECK &amp; PORTIONS OF MAIN DECK OF THE VESSEL) BERTHING AT NORTH POINT (EAST) PASSENGER FERRY PIER, NORTH POINT, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>MR</TYPE>
+      <DIST>11</DIST>
+      <LICNO>3711800033</LICNO>
+      <SS>Man On</SS>
+      <ADR>MAN ON (VESSEL NO. A10363) (PORTION OF UPPER DECK &amp; PORTIONS OF MAIN DECK OF THE VESSEL) BERTHING AT NORTH POINT (EAST) PASSENGER FERRY PIER, NORTH POINT, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>MR</TYPE>
+      <DIST>11</DIST>
+      <LICNO>3711800042</LICNO>
+      <SS>Man Kim</SS>
+      <ADR>MAN KIM (VESSEL NO. A2463) (PORTION OF UPPER DECK &amp; PORTIONS OF MAIN DECK OF THE VESSEL) BERTHING AT NORTH POINT (EAST) PASSENGER FERRY PIER,  NORTH POINT, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018221</LICNO>
+      <SS>CARITAS RESTAURANT</SS>
+      <ADR>ROOM 301, 3/F., BLOCK A, CARITAS HOUSE, 2 CAINE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018504</LICNO>
+      <SS>WING LOK YUEN RESTAURANT</SS>
+      <ADR>15-23 (B/M) &amp; 19 (G/F.), CHIU LUNG STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018665</LICNO>
+      <SS>Jasmine Place</SS>
+      <ADR>SHOP 5, LG/F, JARDINE HOUSE, CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#G</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018674</LICNO>
+      <SS>GRAPPA&apos;S COUNTRY</SS>
+      <ADR>SHOP 9, LG/F &amp; SHOP 4A, BASEMENT,JARDINE HOUSE, CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018726</LICNO>
+      <SS>Maxim’s Hong Kong Day</SS>
+      <ADR>G/F, 90 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018878</LICNO>
+      <SS>NORTH GARDEN RESTAURANT</SS>
+      <ADR>RESTAURANT(UNIVERSAL) LTD., G/F(PORT.), 1/F &amp; 2/F, 249-253 DES VOEUX ROAD CENTRAL, 125-127 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213018887</LICNO>
+      <SS>Diamond Club Restaurant</SS>
+      <ADR>G/F (WEST PORT.), 2/F-6/F, 267-275 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213019251</LICNO>
+      <SS>DRAGON RESTAURANT</SS>
+      <ADR>G/F., 5 GAGE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213030229</LICNO>
+      <SS>GOLDEN CHINA RESTAURANT LIMITED</SS>
+      <ADR>G/F, 9 JUBILEE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213034753</LICNO>
+      <SS>士丹利美食快餐</SS>
+      <ADR>G/F, 13-17 STANLEY STREET &amp; 1/F, 58-62 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213034762</LICNO>
+      <SS>LUK YU TEA HOUSE</SS>
+      <ADR>G/F. - 3/F., 24-26 STANLEY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213034780</LICNO>
+      <SS>威記</SS>
+      <ADR>G/F., 82 STANLEY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213035783</LICNO>
+      <SS>YUNG KEE</SS>
+      <ADR>G/F - 4/F, 32-40 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213035792</LICNO>
+      <SS>MAK&apos; S NOODLE</SS>
+      <ADR>G/F, 77 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213035862</LICNO>
+      <SS>PEARL VIETNAMESE RESTAURANT</SS>
+      <ADR>G/F., &amp; M/F., 7 WO ON LANE, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213035987</LICNO>
+      <SS>JIMMY&apos;S KITCHEN</SS>
+      <ADR>LG/F., SOUTH CHINA BUILDING, 1-3 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213036157</LICNO>
+      <SS>KIKU / simplylife CAFE</SS>
+      <ADR>1ST BASEMENT (EAST PTN.), GLOUCESTER TOWER, 12-16A DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#E#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213036564</LICNO>
+      <SS>Kila</SS>
+      <ADR>SHOP A &amp; B, UPPER BASEMENT, 79 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213037071</LICNO>
+      <SS>CAN.TEEN</SS>
+      <ADR>ATRIUM &amp; SHOP 44, 1/F., ADMIRALTY CENTRE, TOWER I, 18 HARCOURT ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213037309</LICNO>
+      <SS>McDonald&apos;s</SS>
+      <ADR>B/M., YU TO SANG BUILDING, 37 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213037707</LICNO>
+      <SS>NEW BLUE POOL</SS>
+      <ADR>G/F &amp; BASEMENT, 71 CAINE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213039387</LICNO>
+      <SS>源興</SS>
+      <ADR>G/F &amp; C/L, 36 GILMAN&apos;S BAZAAR, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213039420</LICNO>
+      <SS>TSUI HANG VILLAGE</SS>
+      <ADR>2/F, 16-18 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213039518</LICNO>
+      <SS>Koh Thai</SS>
+      <ADR>G/F. &amp; C/L., 57 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213039527</LICNO>
+      <SS>AJISEN RAMEN</SS>
+      <ADR>BASEMENT, 58-60 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213039536</LICNO>
+      <SS>Café Landmark</SS>
+      <ADR>SHOP G6-7(G/F) &amp; 107-108(1/F), THE LANDMARK, DES VOEUX ROAD CENTRAL, HK., CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213044772</LICNO>
+      <SS>LEE FA YUEN KOREA GARDEN RESTAURANT</SS>
+      <ADR>1/F, 243-247 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213045562</LICNO>
+      <SS>SHIKI</SS>
+      <ADR>UNIT A-1, UPPER G/F, FAR EAST FINANCE BUILDING, 16 HARCOURT ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213045881</LICNO>
+      <SS>SCHNURRBART</SS>
+      <ADR>G/F. &amp; C/L., 29 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213045960</LICNO>
+      <SS>McDonald&apos;s</SS>
+      <ADR>UG/F &amp; LG/F, CHUANG&apos;S TOWER, 30-32 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213046732</LICNO>
+      <SS>牛記茶室</SS>
+      <ADR>G/F, 3 GOUGH STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213062574</LICNO>
+      <SS>海南餐廳</SS>
+      <ADR>G/F, 130-131 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213065722</LICNO>
+      <SS>Fresco Cafe</SS>
+      <ADR>G/F, 30 GAGE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213066983</LICNO>
+      <SS>Asian Paradise Fusion Restaurant &amp; Bar</SS>
+      <ADR>1/F., SAN TOI BUILDING, 137-139 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213067348</LICNO>
+      <SS>忠記麵家</SS>
+      <ADR>SHOP A, G/F, 29-37 WING KUT STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213069265</LICNO>
+      <SS>盛記餐廳</SS>
+      <ADR>G/F &amp; 1/F, 97I WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213069894</LICNO>
+      <SS>CHIU CHOW GARDEN</SS>
+      <ADR>SHOP 21, B/M., JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213069900</LICNO>
+      <SS>City Hall Maxim’s Palace; City Hall Maxim’s Cafe, Deli and Wine</SS>
+      <ADR>G/F(PTN), 1/F(PTN), 2/F &amp;2 BALCONIES ON 1-2/F, CITY HALL LOW BLOCK, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213072052</LICNO>
+      <SS>KAU KEE RESTAURANT</SS>
+      <ADR>G/F, 21 GOUGH STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213074942</LICNO>
+      <SS>DOTCOD</SS>
+      <ADR>SHOP B4, B/M &amp; G/F (PTN), PRINCE&apos;S BLDG, 10 CHATER ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#F</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213079415</LICNO>
+      <SS>SUPER STAR SEAFOOD RESTAURANT</SS>
+      <ADR>G/F (PORTION) &amp; BASEMENT, 19-27 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213081102</LICNO>
+      <SS>東記麵家</SS>
+      <ADR>BASEMENT, 4 GAGE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213084077</LICNO>
+      <SS>OLE &apos; SPANISH RESTAURANT &amp; WINE BAR</SS>
+      <ADR>1/F, SHUN HO TOWER, 24-30 ICE HOUSE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213084262</LICNO>
+      <SS>MARRIOTT HK HOTEL</SS>
+      <ADR>LG2(PTN), L4(PTN), L5 &amp; L7(PTN), HK MARROTT HOTEL, PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213084280</LICNO>
+      <SS>JW MARRIOTT HOTEL HONG KONG</SS>
+      <ADR>LEVEL 3, PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213086426</LICNO>
+      <SS>METROPOL RESTAURANT</SS>
+      <ADR>4/F, UNITED CENTRE, 95 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213086471</LICNO>
+      <SS>CHIU CHOW GARDEN</SS>
+      <ADR>3/F, INFINITUS PLAZA, 199 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213086480</LICNO>
+      <SS>DAN RYAN&apos;S CHICAGO GRILL</SS>
+      <ADR>SHOP 112, LEVEL 1, PACIFIC PLACE, 88 QUEENSWAY, HONG KONG</ADR>
+      <INFO>#F</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213087906</LICNO>
+      <SS>Peking Garden</SS>
+      <ADR>SHOP 5, LG1, THE MALL ONE PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213091219</LICNO>
+      <SS>MERCER REST.</SS>
+      <ADR>G/F., 23 HILLIER STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213091750</LICNO>
+      <SS>MISO &amp; DELI-O</SS>
+      <ADR>SHOP 15, LG/F &amp; B/M 3, JARDINE HOUSE, 1 CONNAUGHT PLACE, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213091769</LICNO>
+      <SS>AL&apos; S DINER</SS>
+      <ADR>SHOP F, G/F., WINNER BUILDING, 27-39 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213091778</LICNO>
+      <SS>BIT POINT</SS>
+      <ADR>G/F. &amp; C/L., 31 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213092674</LICNO>
+      <SS>CONRAD HONG KONG</SS>
+      <ADR>PTN. OF LEVEL 3-5, 5M, 6-8 &amp; 59, CONRAD INTERNATIONAL HONG KONG, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213100915</LICNO>
+      <SS>GRAPPA&apos; S RISTORANTE TOSCANA</SS>
+      <ADR>SHOP 132, LEVEL 1, PACIFIC PLACE II, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213101990</LICNO>
+      <SS>ISLAND SHANGRI-LA HOTEL</SS>
+      <ADR>PTNS. OF LEVEL 5 &amp; LEVEL 6, ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#D#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213102009</LICNO>
+      <SS>ISLAND SHANGRI-LA HOTEL</SS>
+      <ADR>LEVEL 7 (PTN) &amp; LEVEL 8, ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#D#E#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213102063</LICNO>
+      <SS>ISLAND SHANGRI-LA HOTEL</SS>
+      <ADR>PTN. OF 3,5,6 &amp;39, ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#D#E#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213102072</LICNO>
+      <SS>L16</SS>
+      <ADR>HONG KONG PARK RESTAURANT, HONG KONG PARK, COTTON TREE DRIVE, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213102708</LICNO>
+      <SS>ISLAND SHANGRI LA-HOTEL</SS>
+      <ADR>PTN. OF LEVEL 5,50,52,54 &amp; 56, ISLAND SHANGRI-LA HOTEL, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO>#D#E#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213103118</LICNO>
+      <SS>Caine Delicious</SS>
+      <ADR>LOWER B/M(PTN.), UPPER B/M &amp; G/F(PTN.), 27 CAINE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213103321</LICNO>
+      <SS>OYSTERS &amp; RESTAURANT</SS>
+      <ADR>SHOP B, G/F., 9 WO ON LANE, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213104467</LICNO>
+      <SS>LUNG KEE RESTAURANT</SS>
+      <ADR>G/F, 3 GAGE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213104519</LICNO>
+      <SS>MANDARIN ORIENTAL HOTEL</SS>
+      <ADR>5 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#E#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213106463</LICNO>
+      <SS>TANGO ARGENTINEAN STEAK HOUSE</SS>
+      <ADR>1/F., CARFIELD COMMERCIAL BUILDING, 75-77 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213106676</LICNO>
+      <SS>TUK TUK THAI</SS>
+      <ADR>G/F, 30 GRAHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213110466</LICNO>
+      <SS>咪咪茶餐廳</SS>
+      <ADR>G/F, 8-10 WING LOK STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213111830</LICNO>
+      <SS>SECRET GARDEN KOREAN RESTAURANT</SS>
+      <ADR>SHOP NO.5, G/F, BANK OF AMERICA TOWER, 12 HARCOURT ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213112736</LICNO>
+      <SS>BEIRUT BAR</SS>
+      <ADR>SHOP A, G/F. &amp; C/L., BLOCK A, WINNER BUILDING, 27-37 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213113438</LICNO>
+      <SS>均樂</SS>
+      <ADR>G/F., 31 GAGE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213115036</LICNO>
+      <SS>RUTH&apos;S CHRIS STEAK HOUSE</SS>
+      <ADR>SHOP 2-3, G/F., LIPPO CENTRE, 89 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213115045</LICNO>
+      <SS>德釗記</SS>
+      <ADR>G/F., TOWER 2 TERN CENTRE, 78 JERVOIS STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213115939</LICNO>
+      <SS>生記</SS>
+      <ADR>G/F, 18, 20 &amp; 22, HILLIER STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213116817</LICNO>
+      <SS>福祿壽健康素食</SS>
+      <ADR>G/F., 8 TIT HONG LANE, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213117005</LICNO>
+      <SS>CRAFT OPEN FIRE COOKING</SS>
+      <ADR>G/F, 29 ELGIN STREET, CENTRAL, HONG KONG</ADR>
+      <INFO>#F</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213117740</LICNO>
+      <SS>老地方茶餐廳</SS>
+      <ADR>2/F, QUEEN&apos;S PLACE, 74 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213118132</LICNO>
+      <SS>KA HO RESTAURANT</SS>
+      <ADR>UG/F, 328 QUEEN&apos;S ROAD CENTRAL, WESTERN, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213120193</LICNO>
+      <SS>泰豐泰國茶餐廳</SS>
+      <ADR>G/F. &amp; C/L, 26-28 GILMAN&apos;S BAZAAR, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213120555</LICNO>
+      <SS>WANYA JAPANESE RESTAURANT</SS>
+      <ADR>M/F, NEW WORLD TOWER, 18 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213120759</LICNO>
+      <SS>CAFE DECO BAR &amp; GRILL</SS>
+      <ADR>SHOP 1 OF LEVEL 1 AND SHOP 1 OF LEVEL 2, THE PEAK GALLERIA, 118 PEAK ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213121220</LICNO>
+      <SS>HAPPY VEG.</SS>
+      <ADR>B/M., 53 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213121433</LICNO>
+      <SS>Kyoto Joe</SS>
+      <ADR>2/F.-4/F., 1 LAN KWAI FONG, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213122472</LICNO>
+      <SS>佳記</SS>
+      <ADR>G/F, 94 JERVOIS STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213123688</LICNO>
+      <SS>FAIRWOOD FAST FOOD</SS>
+      <ADR>2/F., MANNING HOUSE, 48 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213126155</LICNO>
+      <SS>CAFE DE CORAL</SS>
+      <ADR>G/F.(PTN.) &amp; 1/F., REGENT CENTRE, 88 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213126632</LICNO>
+      <SS>JACKPOT RESTAURANT</SS>
+      <ADR>G/F., 18-20 WING LOK STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213127006</LICNO>
+      <SS>TERRACE ROOM</SS>
+      <ADR>LB/F (PORTION) &amp; 1/F (PORTION), BISHOP LEI INTERNATIONAL HOUSE, 4 ROBINSON ROAD, MID-LEVELS, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213127042</LICNO>
+      <SS>GENKI SUSHI</SS>
+      <ADR>SHOP C1, G/F, FAR EAST FINANCE CENTRE, 16 HARCOURT ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213128540</LICNO>
+      <SS>彩星</SS>
+      <ADR>G/F, 126 CAINE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213132330</LICNO>
+      <SS>JO JO INDIAN</SS>
+      <ADR>SHOP G-10, G/F., BANK OF AMERICA TOWER, 12 HARCOURT ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213133412</LICNO>
+      <SS>MACAU JOCKEY CLUB</SS>
+      <ADR>1/F, SHUN TAK CENTRE, EAST WING, 200 CONNAUGHT ROAD CENTRAL, SHEUNG WAN, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213133652</LICNO>
+      <SS>COFFEE SHOP</SS>
+      <ADR>8/F (PORTION), 2 MACDONNELL ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213134372</LICNO>
+      <SS>東方茶餐廳</SS>
+      <ADR>SHOP 1, 2 &amp; 3, G/F, 43 CAINE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213134673</LICNO>
+      <SS>San Xi Lou</SS>
+      <ADR>7/F, CODA PLAZA, 51 GARDEN ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213135454</LICNO>
+      <SS>TOKIO JOE</SS>
+      <ADR>LG/F, 58-62 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213138860</LICNO>
+      <SS>威記粥面</SS>
+      <ADR>SHOP A &amp; A1, LG/F, WELLEY BUILDING, 97 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213139289</LICNO>
+      <SS>CHIU LUNG FAST FOOD</SS>
+      <ADR>G/F, 21-23 CHIU LUNG STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213140122</LICNO>
+      <SS>HONOLULU COFFEE SHOP</SS>
+      <ADR>2/F (MAJOR PTN.), WAH KWONG REGENT CENTRE, 88 QUEEN&apos; S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213140326</LICNO>
+      <SS>NEPAL BAR &amp; RESTAURANT</SS>
+      <ADR>G/F, 14 STAUNTON STREET, LOWER MID-LEVELS, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213141189</LICNO>
+      <SS>PAMPAS ARGENTINIAN STEAK HOUSE</SS>
+      <ADR>G/F, 36 ELGIN STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213143255</LICNO>
+      <SS>McDonald&apos;s</SS>
+      <ADR>LG/F., 3-3A CASTLE ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213145978</LICNO>
+      <SS>王府小廚</SS>
+      <ADR>G/F, 65 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213146573</LICNO>
+      <SS>McDonald&apos;s</SS>
+      <ADR>SHOP 267, 2/F., SHUN TAK CENTRE, 200 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213146625</LICNO>
+      <SS>NAM KEE</SS>
+      <ADR>SHOP 3-4, G/F., KAI TAK COMMERCIAL BUILDING, 66-72 STANLEY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213146874</LICNO>
+      <SS>VA BENE</SS>
+      <ADR>UNIT A, B &amp; G, UG/F, 17-22 LAN KWAI FONG, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213147895</LICNO>
+      <SS>LIN HEUNG TEA HOUSE</SS>
+      <ADR>G/F, 162-164 WELLINGTON STREET &amp; 1/F, 160-164 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213147965</LICNO>
+      <SS>CARAMBA</SS>
+      <ADR>SHOP 3, G/F., MILLION CITY, 26-30 ELGIN STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213148153</LICNO>
+      <SS>Golden Treasure Lake Delicacy</SS>
+      <ADR>G/F. &amp; M/F., 5-8 QUEEN VICTORIA STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213148223</LICNO>
+      <SS>PEAK CAFE BAR</SS>
+      <ADR>SHOP A &amp; B, G/F., 9-13 SHELLY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213149484</LICNO>
+      <SS>Victoria City Restaurant</SS>
+      <ADR>5/F., CITIC TOWER, 1 TIM MEI AVENUE, ADMIRALTY, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213151773</LICNO>
+      <SS>STORMIES</SS>
+      <ADR>G/F, 1/F &amp; 2/F, YAU SHUN  BUILDING, 46-50 D&apos;AGUILAR STREET, CENTRAL, HONG KONG AND THE OUTSIDE SEATING ACCOMMODATION ON PAVEMENT AT SHOP FRONT, HONG KONG</ADR>
+      <INFO>#A</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213152305</LICNO>
+      <SS>Pure Veggie House</SS>
+      <ADR>3/F., CODA PLAZA, 51 GARDEN ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213152554</LICNO>
+      <SS>AL DENTE</SS>
+      <ADR>G/F., 16 STAUNTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213155340</LICNO>
+      <SS>SUN CHIU KEE</SS>
+      <ADR>G/F, BLISSFUL BUILDING 243 &amp; 245 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213157285</LICNO>
+      <SS>NORTH GARDEN RESTAURANT</SS>
+      <ADR>1/F &amp; 2/F, 5-8 QUEEN VICTORIA STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213157540</LICNO>
+      <SS>美心MX</SS>
+      <ADR>G/F &amp; 1/F, THE CHINESE GENERAL CHAMBER OF COMMERCE BUILDING, 24-25 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213158543</LICNO>
+      <SS>美心MX</SS>
+      <ADR>SHOP 268, 2/F., SHUN TAK CENTRE, 200 CONNAUGHT ROAD CENTRAL, SHEUNG WAN, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213159643</LICNO>
+      <SS>THE RED ROCK BAR &amp; GRILL</SS>
+      <ADR>BASEMENT SHOPS, 57-59 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213160382</LICNO>
+      <SS>YE SHANGHAI</SS>
+      <ADR>UNIT 332, LEVEL 3, PACIFIC PLACE, 88 QUEENSWAY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213160577</LICNO>
+      <SS>CAFE DE CORAL</SS>
+      <ADR>G/F, CHINACHEM TOWER, 34-37 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213161932</LICNO>
+      <SS>HOLLY TEA HOUSE</SS>
+      <ADR>SHOP C &amp; D, G/F, KIMLEY COMMERCIAL BUILDING, 142-146 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213163266</LICNO>
+      <SS>A CE SOIR</SS>
+      <ADR>G/F, 33 PEEL STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213166210</LICNO>
+      <SS>JOLLIBEE</SS>
+      <ADR>SHOP Z4 (PTN.) G/F &amp; SHOP A, B/M, EURO TRADE CENTRE, 13-14 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213168447</LICNO>
+      <SS>CAFE DE CORAL</SS>
+      <ADR>BASEMENT, G/F(PORTION) &amp; 1/F, CHINACHEM TOWER, 34-37 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213169936</LICNO>
+      <SS>can‧teen</SS>
+      <ADR>M/F., SHOPS M20-M28, PRINCE&apos;S BUILDING, 10 CHATER ROAD, 3 DES VOEUX ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO>#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213170073</LICNO>
+      <SS>Bouchon Bistro Francais</SS>
+      <ADR>SHOP D, G/F, 49 ELGIN STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213173382</LICNO>
+      <SS>STEAK &amp; FRITES</SS>
+      <ADR>SHOP B, G/F, 11 OLD BAILEY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213176114</LICNO>
+      <SS>Le Souk</SS>
+      <ADR>G/F., 4 STAUNTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213178730</LICNO>
+      <SS>FLORINDA CAFE</SS>
+      <ADR>SHOP 270-275, 2/F, SHUN TAK CENTRE, 200 CONNAUGHT ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213180074</LICNO>
+      <SS>TREASURE LAKE SEAFOOD RESTAURANT</SS>
+      <ADR>G/F.(PORTION), 1/F.-3/F., HALESON BUILDING, 1 JUBILEE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213180278</LICNO>
+      <SS>Bourbon</SS>
+      <ADR>LG/F, 62 PEEL STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213184465</LICNO>
+      <SS>CAFE DE CORAL</SS>
+      <ADR>UG/F., SHOP NOS A5-1 &amp; A6-2, FAR EAST FINANCE CENTRE, 16 HARCOURT ROAD, ADMIRALTY, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213185316</LICNO>
+      <SS>ZENTRO</SS>
+      <ADR>SHOP NO.2022, ONE INTERNATIONAL FINANCE CENTRE, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213185538</LICNO>
+      <SS>DIVINO</SS>
+      <ADR>SHOP 1, UG/F., WINSOME HOUSE, 73 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO>#E</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213186461</LICNO>
+      <SS>TSUI WAH RESTAURANT</SS>
+      <ADR>LG/F. - 1/F., HONG KONG HOUSE, 15D-19 WELLINGTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213187242</LICNO>
+      <SS>美心MX</SS>
+      <ADR>SHOP 103-105, 1/F, HUTCHISON HOUSE, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213187446</LICNO>
+      <SS>UCC CAFE FERIE</SS>
+      <ADR>2/F, COMMERCIAL UNITS 206-207, LOW BLOCK, GRAND MILLENNIUM PLAZA, 181 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213188564</LICNO>
+      <SS>GOCCIA</SS>
+      <ADR>SHOP 2 ON UG/F &amp; THE WHOLE OF 1/F, WINSOME HOUSE, 73 WYNDHAM STREET, CENTRAL, HONG KONG</ADR>
+      <INFO>#E#F</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213189707</LICNO>
+      <SS>GREAT</SS>
+      <ADR>PORTION A, UNIT 009 ON LEVEL LG1, THE MALL, PACIFIC PLACE, ADMIRALTY, CENTRAL, HONG KONG</ADR>
+      <INFO>#F</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213189770</LICNO>
+      <SS>AGEHAN JAPANESE RESTAURANT</SS>
+      <ADR>SHOP 208-210, THE PODIUM OF EXCHANGE SQUARE, 8 CONNAUGHT PLACE, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213190057</LICNO>
+      <SS>MAJESTY</SS>
+      <ADR>WHOLE OF 3RD FLOOR, REGENT CENTRE, 88 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213190756</LICNO>
+      <SS>CAFE DE CORAL</SS>
+      <ADR>SHOP UNITS 208-214 ON THE SECOND FLOOR OF LOW BLOCK, GRAND MILLENNIUM PLAZA,NOS. 181 &amp; 183 QUEEN&apos;S ROAD CENTRAL, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213190969</LICNO>
+      <SS>華記食店</SS>
+      <ADR>G/F., 10 STAVELEY STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213191139</LICNO>
+      <SS>全日點心小炒酒家</SS>
+      <ADR>G/F., 42-44 PEEL STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213192071</LICNO>
+      <SS>四川菜大平伙</SS>
+      <ADR>LG/F., HILLTOP PLAZA, 49 HOLLYWOOD ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213192327</LICNO>
+      <SS>Les Fils a Maman</SS>
+      <ADR>LG/F, 75-75A HOLLYWOOD ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213193241</LICNO>
+      <SS>Shanghai Min</SS>
+      <ADR>SHOP 301 &amp; 302, 3/F, MAN YEE ARCADE, 60-68 DES VOEUX ROAD CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213193454</LICNO>
+      <SS>GAIA RISTORANTE</SS>
+      <ADR>UNIT 01-05, G/F, 181 QUEEN&apos;S ROAD CENTRAL, HK &amp; THE OUTSIDE SEATING ACC. IN THE OPEN SPACE AT SHOP FRONT, CENTRAL, HONG KONG</ADR>
+      <INFO>#A</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213193940</LICNO>
+      <SS>CASA</SS>
+      <ADR>1/F., WO ON BUILDING, 8-13 WO ON LANE, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213194156</LICNO>
+      <SS>IVAN THE KOZAK</SS>
+      <ADR>LG/F., 46 &amp; 48, COCHRANE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213196505</LICNO>
+      <SS>JASPA&apos;S</SS>
+      <ADR>G/F., 28-30 STAUNTON STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213197216</LICNO>
+      <SS>YELLOW DOOR KITCHEN</SS>
+      <ADR>6/F., 37-43 COCHRANE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213197854</LICNO>
+      <SS>SHUI HU JU RESTAURANT</SS>
+      <ADR>G/F, 68 PEEL STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213198121</LICNO>
+      <SS>simplylife FOODPLACE</SS>
+      <ADR>SHOP NO.6, LG/F, CITIBANK PLAZA, 3 GARDEN ROAD, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213198273</LICNO>
+      <SS>Cacio &amp; Pepe</SS>
+      <ADR>SHOP NOS B &amp; D, G/F, 7-9 SHIN HING STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213198732</LICNO>
+      <SS>THE PEAK LOOKOUT</SS>
+      <ADR>G/F., NO. 121 PEAK ROAD AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE AND AT REAR, CENTRAL, HONG KONG</ADR>
+      <INFO>#A#F#G#H</INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213201801</LICNO>
+      <SS>溢駿美食</SS>
+      <ADR>G/F., 11 JUBILEE STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213201810</LICNO>
+      <SS>ENOTECA</SS>
+      <ADR>G/F., 47 ELGIN STREET, CENTRAL, HONG KONG</ADR>
+      <INFO></INFO>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
+      <LICNO>2213202293</LICNO>
+      <SS>KYOTO JOE</SS>
+      <ADR>G/F. &amp; B/M., 21 D&apos;AGUILAR STREET, CENTRAL, HONG KONG</ADR>
+      <INFO>#G#H</INFO>
+    </LP>
+  </LPS>
+</DATA>
