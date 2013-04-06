@@ -1,6 +1,7 @@
 package com.github.lsiu.experiment.eclipselink;
 
 import java.sql.Connection;
+import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -14,6 +15,7 @@ import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.testng.AbstractTestNGSpringContextTests;
 import org.springframework.transaction.annotation.Transactional;
@@ -45,6 +47,8 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 
 	@Resource
 	private DataSource ds;
+	
+	private static final String TEST_LICENSENO = "3711800024";
 
 	@BeforeClass
 	public void setupDb() throws Exception {
@@ -70,7 +74,7 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 
 	@Test
 	public void testFind() {
-		Restaurant r = em.find(Restaurant.class, "3711800024");
+		Restaurant r = em.find(Restaurant.class, TEST_LICENSENO);
 		Assert.assertNotNull(r);
 		Assert.assertEquals(r.name, "Man Lok");
 		Assert.assertEquals(r.getVersion(), (Integer) 1);
@@ -82,8 +86,8 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 	}
 
 	@Test
-	public void testMergeAndVersioning() throws InterruptedException {
-		Restaurant r = em.find(Restaurant.class, "3711800024");
+	public void testMergeAndVersioning() throws SQLException {
+		Restaurant r = em.find(Restaurant.class, TEST_LICENSENO);
 
 		// merge no change, version should not change
 		Restaurant merged = mergeChanges(r);
@@ -98,8 +102,16 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 		Assert.assertEquals(merged2.name, newName);
 		Assert.assertEquals(merged2.getVersion(), (Integer) 2);
 
-		Restaurant r2 = em.find(Restaurant.class, "3711800024");
+		Restaurant r2 = em.find(Restaurant.class, TEST_LICENSENO);
 		log.debug("Re-fetch name: {}, version: {}", r2.name, r2.getVersion());
 		Assert.assertEquals(r2.getVersion(), (Integer) 2);
+		
+		// check history policy
+		JdbcTemplate jdbcTemplate = new JdbcTemplate(ds);
+		Integer count = jdbcTemplate.queryForObject("SELECT COUNT(*) FROM RESTAURANT_HIST WHERE LICENSENO = ?",
+				Integer.class,
+				TEST_LICENSENO);
+		Assert.assertEquals(count, (Integer)2);
+		
 	}
 }
