@@ -57,8 +57,9 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 				"/sql/create-history-table.sql"));
 		
 		Connection conn = ds.getConnection();
-		Statement stmt = conn.createStatement();
 		try {
+			conn.setAutoCommit(true);
+			Statement stmt = conn.createStatement();
 			stmt.execute(sql);
 		} finally {
 			conn.close();
