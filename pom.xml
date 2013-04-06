@@ -194,4 +194,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	<name>Explore EclipseLink Features</name>
+	<description>Project to explore EclipseLink Features</description>
 </project>
