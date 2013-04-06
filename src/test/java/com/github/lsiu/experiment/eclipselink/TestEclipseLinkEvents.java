@@ -11,7 +11,6 @@ import javax.persistence.PersistenceContext;
 import javax.sql.DataSource;
 
 import org.apache.commons.io.IOUtils;
-import org.dbunit.IDatabaseTester;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -40,9 +39,6 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 
 	@PersistenceContext
 	private EntityManager em;
-
-	@Autowired
-	private IDatabaseTester dbtester;
 
 	@Autowired
 	private RestaurantDataImporter importer;
