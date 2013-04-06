@@ -1,11 +1,16 @@
 package com.github.lsiu.experiment.eclipselink;
 
+import java.sql.Connection;
+import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import javax.annotation.Resource;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.sql.DataSource;
 
+import org.apache.commons.io.IOUtils;
 import org.dbunit.IDatabaseTester;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,8 +29,7 @@ import com.github.lsiu.experiment.eclipselink.model.Restaurant;
 import com.github.lsiu.hkrestaurants.importer.RestaurantDataImporter;
 
 @ContextConfiguration(classes = { PersistenceJPAConfig.class,
-		HsqlDataSourceConfig.class, 
-		DatabaseTesterConfig.class })
+		HsqlDataSourceConfig.class, DatabaseTesterConfig.class })
 public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 
 	private static final Logger log = LoggerFactory
@@ -43,15 +47,28 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 	@Autowired
 	private RestaurantDataImporter importer;
 
+	@Resource
+	private DataSource ds;
+
 	@BeforeClass
 	public void setupDb() throws Exception {
+		log.debug("create RESTAURANT_HIST table");
+		String sql = IOUtils.toString(this.getClass().getResourceAsStream(
+				"/sql/create-history-table.sql"));
+		
+		Connection conn = ds.getConnection();
+		Statement stmt = conn.createStatement();
+		try {
+			stmt.execute(sql);
+		} finally {
+			conn.close();
+		}
+
 		String testDataDir = "test-data";
 		String testFileName = "restaurntData_20130401_233444_700_UTF-8_subset.xml";
-
 		String testFile = "/" + testDataDir + "/" + testFileName;
 
 		log.debug("Prepare database with test file: {}", testFile);
-
 		importer.importData(this.getClass().getResourceAsStream(testFile));
 	}
 
@@ -83,10 +100,10 @@ public class TestEclipseLinkEvents extends AbstractTestNGSpringContextTests {
 		Restaurant merged2 = mergeChanges(merged);
 
 		Assert.assertEquals(merged2.name, newName);
-		Assert.assertEquals(merged2.getVersion(), (Integer)2);
-		
+		Assert.assertEquals(merged2.getVersion(), (Integer) 2);
+
 		Restaurant r2 = em.find(Restaurant.class, "3711800024");
 		log.debug("Re-fetch name: {}, version: {}", r2.name, r2.getVersion());
-		Assert.assertEquals(r2.getVersion(), (Integer)2);
+		Assert.assertEquals(r2.getVersion(), (Integer) 2);
 	}
 }

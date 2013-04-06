@@ -7,8 +7,13 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Version;
 
+import org.eclipse.persistence.annotations.Customizer;
+
+import com.github.lsiu.experiment.eclipselink.RestaurantEventAdaptor;
+
 @SuppressWarnings("serial")
 @Entity
+@Customizer(RestaurantEventAdaptor.class)
 public class Restaurant implements Serializable {
 
 	@Column
